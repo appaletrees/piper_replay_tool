@@ -1,0 +1,294 @@
+[
+  {
+    "run": "20261029-120435-2b96ec",
+    "rows": 633,
+    "initial_hz": 30.0,
+    "field": "action",
+    "fixed_target_segments": [],
+    "playing_change_samples": 542,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0345
+    ]
+  },
+  {
+    "run": "20261029-120521-9747d5",
+    "rows": 651,
+    "initial_hz": 30.0,
+    "field": "action",
+    "fixed_target_segments": [],
+    "playing_change_samples": 560,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0344
+    ]
+  },
+  {
+    "run": "20261029-120550-209528",
+    "rows": 650,
+    "initial_hz": 30.0,
+    "field": "action",
+    "fixed_target_segments": [],
+    "playing_change_samples": 560,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0344
+    ]
+  },
+  {
+    "run": "20261029-120618-895912",
+    "rows": 650,
+    "initial_hz": 30.0,
+    "field": "action",
+    "fixed_target_segments": [],
+    "playing_change_samples": 560,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0344
+    ]
+  },
+  {
+    "run": "20261029-120707-bbb1e0",
+    "rows": 650,
+    "initial_hz": 30.0,
+    "field": "action",
+    "fixed_target_segments": [],
+    "playing_change_samples": 559,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.034
+    ]
+  },
+  {
+    "run": "20261029-120802-a6bfb3",
+    "rows": 497,
+    "initial_hz": 30.0,
+    "field": "action",
+    "fixed_target_segments": [],
+    "playing_change_samples": 407,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0344
+    ]
+  },
+  {
+    "run": "20261029-120939-30d867",
+    "rows": 496,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [],
+    "playing_change_samples": 407,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0341
+    ]
+  },
+  {
+    "run": "20261029-121212-28da7c",
+    "rows": 498,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [],
+    "playing_change_samples": 407,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0343
+    ]
+  },
+  {
+    "run": "20261029-121231-c6b50e",
+    "rows": 498,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [],
+    "playing_change_samples": 407,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0343
+    ]
+  },
+  {
+    "run": "20261029-121251-f749d4",
+    "rows": 497,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [],
+    "playing_change_samples": 407,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0342
+    ]
+  },
+  {
+    "run": "20261029-121618-1726f7",
+    "rows": 497,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [],
+    "playing_change_samples": 406,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0346
+    ]
+  },
+  {
+    "run": "20261029-121830-0531ad",
+    "rows": 403,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [
+      {
+        "start": 2.11,
+        "end": 13.51,
+        "joint": "left_j1",
+        "feedback_peak_to_peak_deg": 0.0,
+        "target_peak_to_peak_deg": 0.0,
+        "feedback_std_deg": 0.0,
+        "max_sample_gap_s": 0.037
+      }
+    ]
+  },
+  {
+    "run": "20261029-121843-3b926c",
+    "rows": 219,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [
+      {
+        "start": 2.59,
+        "end": 7.36,
+        "joint": "left_j1",
+        "feedback_peak_to_peak_deg": 0.0,
+        "target_peak_to_peak_deg": 0.0,
+        "feedback_std_deg": 0.0,
+        "max_sample_gap_s": 0.036
+      }
+    ]
+  },
+  {
+    "run": "20261029-121851-4847b2",
+    "rows": 988,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [
+      {
+        "start": 2.34,
+        "end": 33.18,
+        "joint": "left_j1",
+        "feedback_peak_to_peak_deg": 0.0,
+        "target_peak_to_peak_deg": 0.0,
+        "feedback_std_deg": 0.0,
+        "max_sample_gap_s": 0.037
+      }
+    ]
+  },
+  {
+    "run": "20261029-121924-77636c",
+    "rows": 5285,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [
+      {
+        "start": 7.38,
+        "end": 46.67,
+        "joint": "left_j1",
+        "feedback_peak_to_peak_deg": 0.0,
+        "target_peak_to_peak_deg": 0.0,
+        "feedback_std_deg": 0.0,
+        "max_sample_gap_s": 0.043
+      },
+      {
+        "start": 49.3,
+        "end": 169.02,
+        "joint": "left_j5",
+        "feedback_peak_to_peak_deg": 0.126,
+        "target_peak_to_peak_deg": 0.0,
+        "feedback_std_deg": 0.0021,
+        "max_sample_gap_s": 0.044
+      }
+    ],
+    "playing_change_samples": 403,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0345
+    ]
+  },
+  {
+    "run": "20261029-122225-ba95bb",
+    "rows": 3250,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [
+      {
+        "start": 14.21,
+        "end": 109.26,
+        "joint": "left_j1",
+        "feedback_peak_to_peak_deg": 0.0,
+        "target_peak_to_peak_deg": 0.0,
+        "feedback_std_deg": 0.0,
+        "max_sample_gap_s": 0.041
+      }
+    ],
+    "playing_change_samples": 302,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0345
+    ]
+  },
+  {
+    "run": "20261029-122417-fc68c4",
+    "rows": 254,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [],
+    "playing_change_samples": 104,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0342
+    ]
+  },
+  {
+    "run": "20261029-122433-3cfd10",
+    "rows": 4030,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [
+      {
+        "start": 13.27,
+        "end": 135.88,
+        "joint": "left_j1",
+        "feedback_peak_to_peak_deg": 0.0,
+        "target_peak_to_peak_deg": 0.0,
+        "feedback_std_deg": 0.0,
+        "max_sample_gap_s": 0.044
+      }
+    ],
+    "playing_change_samples": 201,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0341
+    ]
+  },
+  {
+    "run": "20261029-122650-07af3c",
+    "rows": 3985,
+    "initial_hz": 30.0,
+    "field": "state",
+    "fixed_target_segments": [
+      {
+        "start": 18.38,
+        "end": 133.95,
+        "joint": "left_j1",
+        "feedback_peak_to_peak_deg": 0.0,
+        "target_peak_to_peak_deg": 0.0,
+        "feedback_std_deg": 0.0,
+        "max_sample_gap_s": 0.041
+      }
+    ],
+    "playing_change_samples": 366,
+    "playing_sample_dt_p50_p95": [
+      0.0334,
+      0.0346
+    ]
+  }
+]

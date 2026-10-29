@@ -1,0 +1,7 @@
+Flask==3.1.3
+numpy==1.26.4
+pyarrow==25.0.1
+av==17.1.0
+opencv-python==4.11.0.86
+# Hardware mode additionally uses the existing Piper SDK, scipy and pyrealsense2
+# from the robot environment; no model, torch or CUDA is needed for playback.
